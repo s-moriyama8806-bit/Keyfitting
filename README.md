@@ -1,4 +1,4 @@
-# からナビ — Netlify Functions 版
+# KEYFITTING — Netlify Functions 版
 
 iTunes Search API への通信を、端末ではなく Netlify Functions（サーバー側）で行います。
 
